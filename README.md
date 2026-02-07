@@ -11,7 +11,8 @@
 
 **[Live Dashboard](#) • [Documentation](#project-structure) • [Report Issues](#)**
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview]<img width="1224" height="691" alt="image" src="https://github.com/user-attachments/assets/b15582e6-34d2-4528-a844-75e95e955b64" />
+
 
 *A comprehensive Power BI solution analyzing booking patterns, cancellation trends, and revenue optimization opportunities in the hospitality industry*
 
